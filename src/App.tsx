@@ -1,26 +1,3 @@
-// // src/App.tsx
-// import Header from './components/Header';
-// import Hero from './components/Hero';
-// import CarouselSection from './components/CarouselSection';
-// import Features from './components/Features';
-// import Footer from './components/Footer';
-
-
-// const App = () => (
-//   <>
-//     <Header />
-//     <Hero />
-//     <CarouselSection />
-//     <Features />
-//     <Footer />
-//   </>
-// );
-
-// export default App;
-
-
-
-
 // src/App.tsx
 import { Layout } from "antd";
 import { Routes, Route } from "react-router-dom";
@@ -56,4 +33,3 @@ const App = () => {
 };
 
 export default App;
-
